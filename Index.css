@@ -1,0 +1,14 @@
+body{
+    background-image: url(https://i.pinimg.com/736x/e6/6e/c8/e66ec8fcaa5a6f47dce9f10e2b94318a.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(32, 11, 2);
+    text-align: center;
+    margin-top: 80px;
+}
+div{
+    background-color: rgb(255, 244, 255);
+    margin: 90px;
+    padding: 10px;
+    border: 10px solid rgb(56, 32, 4);
+}

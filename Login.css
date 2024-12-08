@@ -1,0 +1,17 @@
+body{
+    background: url(https://cdn.vectorstock.com/i/500p/53/68/bread-and-bakery-modern-geometric-pattern-tile-vector-51535368.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.Backbutton{
+    padding-top: 30px;
+    padding-left: 30px;
+    text-align: left;
+}
+.LoginBox{
+    background-color: rgb(255, 239, 224);
+    border: solid black 3px;
+    margin: 90px;
+    padding: 40px;
+}

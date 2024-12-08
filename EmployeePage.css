@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://www.shutterstock.com/image-vector/vector-bakery-retro-seamless-pattern-600nw-311957390.jpg);
+    text-align: center;
+}
+
+.Backbutton{
+    padding-top: 30px;
+    padding-left: 30px;
+    text-align: left;
+}
+.Resumes{
+    margin-left:40px;
+    background-color: rgb(255, 228, 202);
+    border: solid black 3px;
+    margin: 90px;
+}
+header{
+    border: solid black 3px;
+    background-color: rgb(252, 153, 153);
+    margin: 90px;
+}
